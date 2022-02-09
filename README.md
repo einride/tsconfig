@@ -23,7 +23,9 @@ yarn add @einride/tsconfig --dev
 Register the config in your `tsconfig.json`:
 
 ```json
-"extends": "@einride/tsconfig"
+{
+  "extends": "@einride/tsconfig"
+}
 ```
 
 You can override specific options if you have a need for that in your project:
