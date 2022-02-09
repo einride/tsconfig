@@ -1,8 +1,8 @@
 # @einride/tsconfig
 
-[![license](https://img.shields.io/npm/l/@einride/tsconfig.svg)](https://github.com/einride/tsconfig/blob/main/LICENSE)
+<!-- [![license](https://img.shields.io/npm/l/@einride/tsconfig.svg)](https://github.com/einride/tsconfig/blob/main/LICENSE)
 [![npm version](https://img.shields.io/npm/v/@einride/tsconfig.svg)](https://www.npmjs.com/package/@einride/tsconfig)
-[![total npm downloads](https://img.shields.io/npm/dt/@einride/tsconfig.svg)](https://www.npmjs.com/package/@einride/tsconfig)
+[![total npm downloads](https://img.shields.io/npm/dt/@einride/tsconfig.svg)](https://www.npmjs.com/package/@einride/tsconfig) -->
 
 Einride's default TSconfig.
 
