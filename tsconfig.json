@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    // type checking
+    "exactOptionalPropertyTypes": true,
+    "noFallthroughCasesInSwitch": true,
+    "strict": true,
+
+    // modules
+    "baseUrl": "./src",
+    "module": "es2020",
+    "resolveJsonModule": true,
+
+    // emit
+    "noEmit": true,
+
+    // javascript support
+    "allowJs": false,
+
+    // interop constraints
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+
+    // landguage and environment
+    "jsx": "react-jsx",
+    "lib": ["es2021", "dom", "dom.iterable"],
+    "target": "es2021",
+
+    // completeness
+    "skipLibCheck": true
+  }
+}
