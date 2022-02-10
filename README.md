@@ -24,7 +24,7 @@ Register the config in your `tsconfig.json`:
 
 ```json
 {
-  "extends": "@einride/tsconfig"
+  "extends": "@einride/tsconfig/tsconfig.json"
 }
 ```
 
@@ -33,7 +33,7 @@ in `@einride/tsconfig` if it's defined there.
 
 ```json
 {
-  "extends": "@einride/tsconfig",
+  "extends": "@einride/tsconfig/tsconfig.json",
   "compilerOptions": {
     "strict": false,
     "baseUrl": "src"
