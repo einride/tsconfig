@@ -28,13 +28,14 @@ Register the config in your `tsconfig.json`:
 }
 ```
 
-You can override specific options if you have a need for that in your project:
+You can add additional options in your project, which will override the option in `@einride/tsconfig` if it's defined there.
 
 ```json
 {
   "extends": "@einride/tsconfig",
   "compilerOptions": {
-    "strict": false
+    "strict": false,
+    "baseUrl": "src"
   }
 }
 ```
