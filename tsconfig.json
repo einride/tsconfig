@@ -6,7 +6,6 @@
     "strict": true,
 
     // modules
-    "baseUrl": "./src",
     "module": "es2020",
     "resolveJsonModule": true,
 
