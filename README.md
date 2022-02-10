@@ -28,7 +28,8 @@ Register the config in your `tsconfig.json`:
 }
 ```
 
-You can add additional options in your project, which will override the option in `@einride/tsconfig` if it's defined there.
+You can add additional options in your project, which will override the option
+in `@einride/tsconfig` if it's defined there.
 
 ```json
 {
