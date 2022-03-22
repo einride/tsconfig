@@ -1,6 +1,6 @@
 {
   "name": "@einride/tsconfig",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Einride's default TSconfig",
   "scripts": {
     "commitlint": "commitlint --from origin/main --to HEAD",
@@ -11,6 +11,7 @@
   "devDependencies": {
     "@commitlint/config-conventional": "16.2.1",
     "@einride/prettier-config": "1.2.0",
+    "@semantic-release/git": "10.0.1",
     "@types/node": "16.11.26",
     "commitlint": "16.2.3",
     "prettier": "2.6.0",
