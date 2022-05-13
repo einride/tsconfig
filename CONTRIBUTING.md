@@ -4,8 +4,8 @@ Thanks for showing interest in contributing to `@einride/tsconfig`!
 
 ## Suggesting Changes
 
-A decision in Einride's frontend guild has to precede any changes to
-`tsconfig.json`.
+A decision in Einride's frontend guild has to precede any changes to the default
+TSconfig (`tsconfig.json`).
 
 ## Pull Request Guidelines
 
