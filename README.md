@@ -8,13 +8,9 @@ Einride's default TSconfig.
 
 ## Installation
 
-Install this package as a dev dependency.
+Install `@einride/tsconfig` as a dev dependency.
 
 ```bash
-# npm
-npm install @einride/tsconfig --save-dev
-
-# yarn
 yarn add @einride/tsconfig --dev
 ```
 
@@ -40,6 +36,11 @@ in `@einride/tsconfig` if it's defined there.
   }
 }
 ```
+
+## Contribute
+
+See
+[Contributing Guide](https://github.com/einride/tsconfig/blob/main/CONTRIBUTING.md).
 
 ## License
 
