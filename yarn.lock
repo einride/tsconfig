@@ -188,10 +188,10 @@
   dependencies:
     "@cspotcode/source-map-consumer" "0.8.0"
 
-"@einride/prettier-config@1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@einride/prettier-config/-/prettier-config-1.2.0.tgz#79f9c1d0f64b3fc9dfb46c963c7de7efa9584780"
-  integrity sha512-Y/+gSWfX2Q92Lqr0LKH+tnGUbewRX9Iqj/9K4z6CRdNrK6mtM7egXu6QZUnjsSuJcaUNdnGq9kG1tNuuF3toYg==
+"@einride/prettier-config@2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@einride/prettier-config/-/prettier-config-2.0.0.tgz#eef883175acf0e894153f6fe1cbdc61b6d8582d3"
+  integrity sha512-omxWJ8eQFoZ5vWqnlcEG1pw+PipsXyM/qIjLxhJOcWdxepasgybW4248slEQU8Rk767lBR+v61DTdIuxdFkb8g==
 
 "@gar/promisify@^1.0.1":
   version "1.1.2"
