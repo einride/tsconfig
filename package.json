@@ -9,7 +9,7 @@
     "review": "yarn install --frozen-lockfile && yarn commitlint && yarn format-check"
   },
   "devDependencies": {
-    "@commitlint/cli": "17.0.2",
+    "@commitlint/cli": "17.0.3",
     "@commitlint/config-conventional": "17.0.2",
     "@einride/prettier-config": "2.0.0",
     "prettier": "2.7.1",
