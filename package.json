@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "17.0.3",
-    "@commitlint/config-conventional": "17.0.2",
+    "@commitlint/config-conventional": "17.0.3",
     "@einride/prettier-config": "2.0.0",
     "prettier": "2.7.1",
     "semantic-release": "19.0.3"
