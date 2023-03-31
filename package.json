@@ -16,7 +16,7 @@
     "semantic-release": "21.0.1"
   },
   "peerDependencies": {
-    "typescript": ">=4"
+    "typescript": ">=5"
   },
   "files": [
     "tsconfig.json"
