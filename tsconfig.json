@@ -18,7 +18,8 @@
     "allowJs": false,
 
     // interop constraints
-    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": false,
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
 
