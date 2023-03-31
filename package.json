@@ -16,7 +16,7 @@
     "semantic-release": "21.0.0"
   },
   "peerDependencies": {
-    "typescript": ">=4"
+    "typescript": ">=5"
   },
   "author": "Filip Tammergård",
   "publishConfig": {
