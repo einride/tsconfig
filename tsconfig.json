@@ -3,6 +3,7 @@
     // type checking
     "exactOptionalPropertyTypes": true,
     "noFallthroughCasesInSwitch": true,
+    "noUncheckedIndexedAccess": true,
     "strict": true,
 
     // modules
