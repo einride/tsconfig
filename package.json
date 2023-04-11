@@ -18,29 +18,29 @@
   "peerDependencies": {
     "typescript": ">=4"
   },
-  "author": "Filip Tammergård",
-  "publishConfig": {
-    "access": "public"
-  },
   "files": [
     "tsconfig.json"
   ],
-  "engines": {
-    "node": "14 || 16 || 18"
-  },
   "keywords": [
     "typescript",
     "config",
     "tsconfig"
   ],
-  "license": "MIT",
   "homepage": "https://github.com/einride/tsconfig",
+  "bugs": {
+    "email": "open-source@einride.tech",
+    "url": "https://github.com/einride/tsconfig/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Filip Tammergård",
+    "email": "filip.tammergard@einride.tech"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/einride/tsconfig.git"
   },
-  "bugs": {
-    "email": "open-source@einride.tech",
-    "url": "https://github.com/einride/tsconfig/issues"
+  "publishConfig": {
+    "access": "public"
   }
 }
