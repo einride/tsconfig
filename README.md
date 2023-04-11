@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/@einride/tsconfig.svg)](https://www.npmjs.com/package/@einride/tsconfig)
 [![total npm downloads](https://img.shields.io/npm/dt/@einride/tsconfig.svg)](https://www.npmjs.com/package/@einride/tsconfig)
 
-Einride's default TSconfig
+Einride's default TSconfig.
 
 ## Installation
 
@@ -20,7 +20,7 @@ Register the config in your `tsconfig.json`:
 
 ```json
 {
-  "extends": "@einride/tsconfig/tsconfig.json"
+  "extends": "@einride/tsconfig"
 }
 ```
 
@@ -29,10 +29,9 @@ You can add additional options in your project, which will override the option i
 
 ```json
 {
-  "extends": "@einride/tsconfig/tsconfig.json",
+  "extends": "@einride/tsconfig",
   "compilerOptions": {
-    "strict": false,
-    "baseUrl": "src"
+    "baseUrl": "./src"
   }
 }
 ```
