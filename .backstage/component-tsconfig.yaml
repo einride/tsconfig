@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tsconfig
+  description: Einride's default TSconfig
+  annotations:
+    github.com/project-slug: einride/tsconfig
+    github.com/team-slug: einride/team-design-system
+spec:
+  type: library
+  lifecycle: production
+  owner: team-design-system
