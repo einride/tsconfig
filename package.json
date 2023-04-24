@@ -41,6 +41,7 @@
     "url": "https://github.com/einride/tsconfig.git"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "provenance": true
   }
 }
