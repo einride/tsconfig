@@ -13,7 +13,7 @@
     "@commitlint/config-conventional": "17.7.0",
     "@einride/prettier-config": "2.1.0",
     "prettier": "3.0.3",
-    "semantic-release": "22.0.1"
+    "semantic-release": "22.0.5"
   },
   "peerDependencies": {
     "typescript": ">=5"
