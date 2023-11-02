@@ -2,11 +2,12 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: tsconfig
-  description: Einride's default TSconfig
+  description: Einride's default TSconfig.
   annotations:
+    backstage.io/source-location: url:https://github.com/einride/tsconfig/tree/main
     github.com/project-slug: einride/tsconfig
-    github.com/team-slug: einride/team-design-system
+    github.com/team-slug: einride/team-divops
 spec:
   type: library
   lifecycle: production
-  owner: team-design-system
+  owner: team-divops
