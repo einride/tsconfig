@@ -25,6 +25,7 @@
     // landguage and environment
     "jsx": "react-jsx",
     "lib": ["es2021", "dom", "dom.iterable"],
+    "moduleDetection": "force",
     "target": "es2021",
 
     // completeness
