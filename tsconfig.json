@@ -29,6 +29,6 @@
     "target": "es2021",
 
     // completeness
-    "skipLibCheck": true,
-  },
+    "skipLibCheck": true
+  }
 }
