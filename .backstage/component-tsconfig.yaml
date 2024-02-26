@@ -10,5 +10,5 @@ metadata:
     github.com/team-slug: einride/platform-engineering
 spec:
   type: library
-  owner: platform-engineerin
+  owner: platform-engineering
   lifecycle: production
