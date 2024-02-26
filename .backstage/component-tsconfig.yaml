@@ -7,8 +7,8 @@ metadata:
   annotations:
     backstage.io/source-location: url:https://github.com/einride/tsconfig/tree/main
     github.com/project-slug: einride/tsconfig
-    github.com/team-slug: einride/team-divops
+    github.com/team-slug: einride/platform-engineering
 spec:
   type: library
-  owner: team-divops
+  owner: platform-engineerin
   lifecycle: production
