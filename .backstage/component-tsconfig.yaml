@@ -5,7 +5,7 @@ metadata:
   title: TSConfig
   description: Einride's default TSconfig.
   annotations:
-    backstage.io/source-location: url:https://github.com/einride/tsconfig/tree/main
+    backstage.io/source-location: url:https://github.com/einride/tsconfig/tree/master
     github.com/project-slug: einride/tsconfig
     github.com/team-slug: einride/platform-engineering
 spec:
