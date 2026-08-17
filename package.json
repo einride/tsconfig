@@ -10,10 +10,10 @@
   },
   "devDependencies": {
     "@commitlint/cli": "19.5.0",
-    "@commitlint/config-conventional": "21.2.0",
+    "@commitlint/config-conventional": "21.2.2",
     "@einride/prettier-config": "2.1.0",
-    "prettier": "3.8.1",
-    "semantic-release": "25.0.8"
+    "prettier": "3.9.6",
+    "semantic-release": "25.0.9"
   },
   "peerDependencies": {
     "typescript": ">=5"
