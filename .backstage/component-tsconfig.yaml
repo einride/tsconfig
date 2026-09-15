@@ -5,11 +5,11 @@ metadata:
   title: TSConfig
   description: Einride's default TSconfig.
   annotations:
-    backstage.io/source-location: url:https://github.com/einride/tsconfig/tree/master
+    backstage.io/source-location: url:https://github.com/einride/tsconfig/tree/master/
     github.com/project-slug: einride/tsconfig
-    github.com/team-slug: einride/platform-engineering
+    github.com/team-slug: einride/asset-intelligence
 spec:
   type: library
-  owner: platform-engineering
+  owner: asset-intelligence
   lifecycle: production
   system: frontend-sdk
